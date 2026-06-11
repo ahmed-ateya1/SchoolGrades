@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://hamadafahmy.runasp.net/api'
+  apiBaseUrl: 'https://hamadafahmy.runasp.net/api'
 };
